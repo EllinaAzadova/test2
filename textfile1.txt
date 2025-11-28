@@ -1,4 +1,4 @@
 Hello world
-Test
 
 Hi Ellina
+New changes from git UI
